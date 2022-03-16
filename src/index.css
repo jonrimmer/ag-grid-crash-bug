@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
+
+.row-drop-into {
+  border: 1px solid blue !important;
+}
+
+.row-drop-above {
+  border-top: 1px solid blue !important;
+}
+
+.row-drop-below {
+  border-bottom: 1px solid blue !important;
+}

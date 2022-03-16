@@ -1,0 +1,8 @@
+.App {
+  height: 100%;
+  display: grid;
+  grid-template: auto 1fr / 1fr;
+  align-items: stretch;
+  justify-items: stretch;
+  gap: 12px;
+}
